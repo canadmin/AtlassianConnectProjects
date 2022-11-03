@@ -2,7 +2,7 @@
     "key": "my-app",
     "name": "My app",
     "description": "My very first app",
-    "baseUrl": "https://1ae1-88-241-76-197.eu.ngrok.io",
+    "baseUrl": "https://6bf0-88-241-76-197.eu.ngrok.io",
     "authentication": {
         "type": "jwt"
     },
@@ -10,9 +10,10 @@
         "installed": "/installed"
     },
     "scopes": [
-        "READ"
+        "READ",
+        "WRITE"
     ],
-    "apiMigrations":{
+    "apiMigrations": {
         "signed-install": true
     },
     "modules": {

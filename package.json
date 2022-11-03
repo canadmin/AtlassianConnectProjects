@@ -26,6 +26,7 @@
     "@atlaskit/flag": "^14.7.1",
     "@atlaskit/form": "^8.6.0",
     "@atlaskit/section-message": "^5.0.7",
+    "@atlaskit/select": "^15.7.4",
     "@atlaskit/textfield": "^5.3.0",
     "@forge/api": "^2.8.0",
     "atlassian-connect-express": "^7.7.0",
